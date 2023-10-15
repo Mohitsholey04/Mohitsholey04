@@ -5,7 +5,7 @@
   
 <h2>A 19 Y/O Tech Enthusiast🎯 from India. I'm passionate about Learning new languages.</h2>
 
-<p>A 2nd year student pursuing Bachelors's in Computer Science Hons.🎓 from GLA University , Mathura 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to new languages✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Learning mode and working on my Data Structures and Algorithms skills 🤓.</p>
+<p>A 3rd year student pursuing Bachelors's in Computer Science Hons.🎓 from GLA University , Mathura 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to new languages✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Learning mode and working on my Data Structures and Algorithms skills 🤓.</p>
 
 <h3 align="center">In a learning mode</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
@@ -44,7 +44,7 @@
 </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitsholey04&show_icons=true&locale=en" alt="mohitsholey" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsholey04&" alt="lmohitsholey" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsholey04&" alt="mohitsholey" width="45%" />
 
 <br>
 
